@@ -1,5 +1,8 @@
 # YT_Video_Downloader
-A python prgrm which is capable of downloading YT videos using the link with 720p resolution using pytube module
+A python program which is capable of downloading YT videos using the link, using pytube and moviepy modules
 
-**install pytube module using the command:** 
+**Install pytube module using the command:** 
 > pip install pytube
+
+**Install moviepy module using the command:** 
+>pip install moviepy
